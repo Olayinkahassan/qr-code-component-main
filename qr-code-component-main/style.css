@@ -1,0 +1,32 @@
+.main{
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    background-color: white;
+    margin-left:520px;
+    margin-right:530px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 220px;
+    height: 370px;
+    border-radius: 10px;
+    
+}
+.item1{
+    height:200px;
+    width: 200px;
+
+}
+.test1{
+    color:hsl(218, 44%, 22%);
+    
+}
+.test2{
+    color: hsl(220, 15%, 55%);
+}
